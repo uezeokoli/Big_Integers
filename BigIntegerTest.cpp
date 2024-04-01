@@ -1,7 +1,4 @@
 //-----------------------------------------------------------------------------
-// Ugonna Ezeokoli
-// uezeokoli
-// 2024 Winter CSE101 PA6
 // BigIntegerClient.cpp 
 // A test client for the BigInteger ADT
 //-----------------------------------------------------------------------------
