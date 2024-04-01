@@ -1,7 +1,4 @@
 //-----------------------------------------------------------------------------
-// Ugonna Ezeokoli
-// uezeokoli
-// 2024 Winter CSE101 PA6
 // List.h
 // Header file for List ADT. List is a double ended queue with a vertical
 // cursor standing between elements. The cursor position is always defined
